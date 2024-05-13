@@ -7,7 +7,7 @@ function feedback404()
 }
 
 if (isset($_GET['daftar'])) {
-    $filename = "ex.txt";
+    $filename = "zr.txt";
     $lines = file($filename, FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
     $target_string = strtolower($_GET['daftar']);
     foreach ($lines as $item) {
