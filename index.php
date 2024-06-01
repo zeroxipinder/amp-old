@@ -46,7 +46,7 @@ if (isset($_GET['daftar'])) {
 
 * GANTI URL PATH DENGAN INI
 <?php echo $urlPath ?>
-
+ 
 * SAMA GANTI REDIRECT LOGIN/REGISTER
 
 */
