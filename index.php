@@ -87,9 +87,9 @@ html{max-width:500px;margin:0 auto;background:#202124}body{color:#bdc1c6;font-fa
   <div class=atasbox>
     <div><amp-img class=imghero height=120 width=300 alt="<?php echo $BRANDS ?>" src="https://lkk.bio/ib/JXoa8Wm8bz.png"></amp-img></div>
     <div class=ataslink>
-      <a href="https://waru138.shop/"target=_blank class=btn1>LOGIN 1</a>
-      <a href="https://waru138.shop/"target=_blank rel="noopener noreferrer nofollow">LOGIN 2</a>
-      <a href="https://waru138.shop/"target=_blank rel="noopener noreferrer nofollow">RTP Slot</a>
+      <a href="https://ps4d-gacor.xyz/"target=_blank class=btn1>LOGIN 1</a>
+      <a href="https://ps4d-gacor.xyz/"target=_blank rel="noopener noreferrer nofollow">LOGIN 2</a>
+      <a href="https://ps4d-gacor.xyz/"target=_blank rel="noopener noreferrer nofollow">RTP Slot</a>
     </div>
   </div>
 </div>
